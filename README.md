@@ -1,1 +1,1 @@
-Repository was created to decorate the GitHub Activity..
+Repository to decorate the activity.. a bit.
